@@ -17,3 +17,10 @@ Received  test
   from  [::1]:51402
 
 ```
+
+# Install and run
+
+```
+~/g/s/g/m/go-udp-service-discovery ❯❯❯ go install                                                                             
+~/g/s/g/m/go-udp-service-discovery ❯❯❯ ${GOBIN}/go-udp-service-discovery
+```
